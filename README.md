@@ -1,13 +1,9 @@
 # Simulador de Votacao Eleitoral em Python
 
-Este projeto foi desenvolvido como parte da disciplina Laboratório de Programação e consiste em um simulador simples de votação via terminal.
+Este projeto foi desenvolvido como parte da disciplina Laboratório de Programação e consiste em um simulador simples de votação via terminal.   
 Foi escrito em Python e tem como objetivo reforçar conceitos básicos.
 
 ---
-
-## Funcionalidades
-
-Interface via terminal para inserção de votos;
 
 ## Suporte a:
 
